@@ -2,7 +2,7 @@
 
 ### 고려대학교 유일의 데이터 사이언스 학회
 
-![23-1 포스터](https://user-images.githubusercontent.com/79436275/177720777-73ebeecc-046d-4915-a7bb-2115b87669f3.png)
+![IMG_4581](https://user-images.githubusercontent.com/87636737/223014599-4b5f064f-bde5-4fe4-bd34-5e66ad6b42ae.JPG)
 
 
 
