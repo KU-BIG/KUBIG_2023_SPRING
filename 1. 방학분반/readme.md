@@ -16,4 +16,4 @@
 
 ## CV
 - CV 스터디에서는 image classification, object detection, neural style transfer, GANs 등, 딥러닝을 이용한 **컴퓨터 비전에서 인기있는 주제**를 공부합니다.
-- **분반장:** 장수혁, 
+- **분반장:** 장수혁, 최경석
