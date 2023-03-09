@@ -1,0 +1,25 @@
+변수명,변수 설명
+id,아이디
+base_date,날짜
+day_of_week,요일
+base_hour,시간대
+road_in_use,도로사용여부
+lane_count,차로수
+road_rating,도로등급
+multi_linked,중용구간 여부
+connect_code,연결로 코드
+maximum_speed_limit,최고속도제한
+weight_restricted,통과제한하중
+height_restricted,통과제한높이
+road_type,도로유형
+start_latitude,시작지점의 위도
+start_longitude,시작지점의 경도
+start_turn_restricted,시작 지점의 회전제한 유무
+end_latitude,도착지점의 위도
+end_longitude,도착지점의 경도
+end_turn_restricted,도작지점의 회전제한 유무
+road_name,도로명
+start_node_name,시작지점명
+end_node_name,도착지점명
+vehicle_restricted,통과제한차량
+target,평균속도(km)
