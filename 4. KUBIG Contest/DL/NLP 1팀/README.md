@@ -1,9 +1,10 @@
 # Deep Learning NLP Project
 #### TEAM : 16기: 김진서, 노연수, 정은미/ 17기: 안영지
-### 데이콘 소설 작가 분류 AI 경진대
+
+### 데이콘 소설 작가 분류 AI 경진대회
 #### link : https://dacon.io/competitions/open/235670/overview/description
 
-"문체 분석 알고리즘 개발을 통한 작가 예측"
+문체 분석 알고리즘 개발을 통한 작가 예측
 
 ## Data
     - index
