@@ -8,7 +8,7 @@
 
 ## Data
     - index
-    - author: 5명의 작가
+    - author : 5명의 작가
     - text : 54879개의 문장뭉치
     
 ## 전처리
