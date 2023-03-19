@@ -15,7 +15,7 @@
     1. 부호 제거
     2. 불용어 처리X
     3. 표제어 추출
-    4. GloVe 임베딩 사
+    4. GloVe 임베딩 사용
 
 ## 모델
     1. CNN
@@ -23,6 +23,6 @@
     3. CNN+RNN
 
 ## Result
-  BI-LSTM 모델 - logloss: 0.322 
+     최종모델) BI-LSTM 모델 - logloss: 0.322 
 
 
