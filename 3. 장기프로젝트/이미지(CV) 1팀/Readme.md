@@ -14,7 +14,7 @@
 ![image](https://github.com/KU-BIG/KUBIG_2023_SPRING/assets/108050069/3d61d4c6-7d4f-496c-80c6-5b4b55829703)
 
 > ## 💻사용한 모델
-- pix2pix
+- pix2pix: https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix
 - cycleGAN: https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix
 - UVCGAN2: https://github.com/LS4GAN/uvcgan2 
 - U-GAT-IT : https://github.com/rayhwang3130/UGATIT-torch
