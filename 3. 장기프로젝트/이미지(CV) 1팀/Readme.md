@@ -13,6 +13,15 @@
 > ## 📌프로젝트 개요
 ![image](https://github.com/KU-BIG/KUBIG_2023_SPRING/assets/108050069/3d61d4c6-7d4f-496c-80c6-5b4b55829703)
 
+> ## 💾데이터
+- celebrity
+  + train: 4722장 (남/여 1:1)
+  + test: 971장 (남/여 1:1)
+
+- webtoon
+  + train: 3930장 
+  + test: 983장
+
 > ## 💻사용한 모델
 - pix2pix: https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix
 - cycleGAN: https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix
