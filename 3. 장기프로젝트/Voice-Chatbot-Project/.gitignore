@@ -6,6 +6,7 @@
 *.jpg
 *.out
 *.txt
+*.xlsx
 
 events.out*
 
