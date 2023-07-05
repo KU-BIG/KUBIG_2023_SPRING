@@ -1,5 +1,5 @@
 # 웹툰 이미지 가상 캐스팅
----
+
 > ## 프로젝트 목표
 웹툰 이미지 기반 배우 **가상 캐스팅** 모델 구현
 - input으로 웹툰 이미지를 넣으면 output으로 닮은 배우를 추천해주는 모델 구현
@@ -15,6 +15,6 @@
 
 > ## 사용한 모델
 - pix2pix
-- cycleGAN
+- cycleGAN: https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix
 - UVCGAN2: https://github.com/LS4GAN/uvcgan2 
 - U-GAT-IT
