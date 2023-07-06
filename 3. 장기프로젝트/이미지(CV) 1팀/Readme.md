@@ -26,4 +26,4 @@
 - pix2pix: https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix
 - cycleGAN: https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix
 - UVCGAN2: https://github.com/LS4GAN/uvcgan2 
-- U-GAT-IT : [https://github.com/rayhwang3130/UGATIT-torch](https://github.com/rayhwang3130/KUBIG-UGATIT-torch)https://github.com/rayhwang3130/KUBIG-UGATIT-torch
+- U-GAT-IT : https://github.com/rayhwang3130/KUBIG-UGATIT-torch
